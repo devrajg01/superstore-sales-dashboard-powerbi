@@ -1,6 +1,7 @@
 # Superstore Sales Performance Dashboard (Power BI)
 
-![Dashboard Preview](Superstore sales dashboard.png)
+![Dashboard Preview](dashboard_preview.png)
+
 
 
 ## Objective
