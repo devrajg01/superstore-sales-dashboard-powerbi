@@ -1,5 +1,8 @@
 # Superstore Sales Performance Dashboard (Power BI)
 
+![Dashboard Preview](dashboard_preview.png)
+
+
 ## Objective
 To analyze retail sales performance and generate actionable business insights using Power BI.
 
